@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Football Indonesian</string>
+    <string name="search_text">Klub apa yang sedang dicari</string>
+    <string name="add_bookmark">Tambahkan ke Favorit</string>
+    <string name="delete_bookmark">Hapus Favorit</string>
+    <string name="empty_bookmark">Tidak Ada Daftar Favorit</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_profile">Profile</string>
+    <string name="email_author">rizazi1945@gmail.com</string>
+    <string name="name_author">Rizqi Azizissani</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
